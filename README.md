@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my portfolio to show some common use-cases in front-end development
+- 🔭 I’m currently working on [my portfolio](https://github.com/rnugraha/show-cases) to show some common use-cases in the front-end development
 - 🌱 I’m currently brushing up ReactJS, familiarize myself with TailwindCSS
 - 🧪 I'm also make this space to try out some interesting tools, frameworks and libs
 - 👯 I’m looking to collaborate on web development. Hire me! 
